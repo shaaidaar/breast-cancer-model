@@ -1,9 +1,4 @@
 # Breast Cancer Classification using Machine Learning
-Here’s a clear and concise README file you can use for your GitHub repository:
-
-⸻
-
-Breast Cancer Classification using Machine Learning
 
 This repository contains a Python-based machine learning pipeline to classify breast cancer tumors as malignant or benign, using the Breast Cancer Wisconsin (Diagnostic) dataset.
 
